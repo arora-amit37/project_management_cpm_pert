@@ -122,6 +122,7 @@ plt.ylabel('Frequency')
 plt.title('Histogram of Project Durations based on the PERT distribution')
 plt.show()
 ```
+![histogram](https://github.com/arora-amit37/pm_cpm_pert/assets/50020662/a87022e2-39f9-4408-a68d-cbd763b3dca0)
 
 #### Calculate the Probability of Meeting a Deadline
 
