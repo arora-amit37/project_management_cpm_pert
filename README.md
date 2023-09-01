@@ -9,7 +9,6 @@ This Python project provides tools for project scheduling and analysis using the
   - [The Critical Path Method (CPM)](#the-critical-path-method-cpm)
   - [The Program Evaluation and Review Technique (PERT)](#the-program-evaluation-and-review-technique-pert)
   - [Monte Carlo Simulation](#monte-carlo-simulation)
-- [License](#license)
 
 ## Installation <a name="installation"></a>
 
@@ -122,7 +121,7 @@ plt.ylabel('Frequency')
 plt.title('Histogram of Project Durations based on the PERT distribution')
 plt.show()
 ```
-![histogram](https://github.com/arora-amit37/pm_cpm_pert/assets/50020662/a87022e2-39f9-4408-a68d-cbd763b3dca0)
+![histogram](https://github.com/arora-amit37/pm_cpm_pert/assets/50020662/242e8326-a6d4-4030-93f9-788544d19da6)
 
 #### Calculate the Probability of Meeting a Deadline
 
