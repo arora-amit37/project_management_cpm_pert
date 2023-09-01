@@ -65,7 +65,8 @@ def pro_dur_cpm(df):
 project_duration = pro_dur_cpm(df_pm)
 print('The project duration as calculated by CPM is: ' + str(project_duration))
 ```
-[aoa3.drawio.pdf](https://github.com/arora-amit37/project_management_cpm_pert/files/12501609/aoa3.drawio.pdf)
+![cpm](https://github.com/arora-amit37/project_management_cpm_pert/assets/50020662/c24d8c0d-f402-461e-8f48-906e05d88283)
+
 
 ### The Program Evaluation and Review Technique (PERT) <a name="the-program-evaluation-and-review-technique-pert"></a>
 
